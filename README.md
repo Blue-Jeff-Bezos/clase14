@@ -9,11 +9,15 @@ Entre ellas encontramos a Blue Origin, empresa privada de vuelos espaciales con 
 New Shepard (NS) es el cohete de Blue Origin, en donde Bezos ha completado su vuelo al espacio en julio de 2021. Lleva el nombre de Alan Shepard, el primer estadounidense en volar al espacio en 1961, como parte del programa pionero Mercury de la NASA. Este consiste en un cohete rematado por una cápsula que es capaz de regresar a la superficie sin ningún rasguño para poder utilizarse una y otra vez. 
 ![partes de New Shepard](https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/eb546a49b2e1415c3e857f837d03d8e54e92f8c7/svg/partes%20de%20New%20Shepard.svg)
 
-![bluee](https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/eb546a49b2e1415c3e857f837d03d8e54e92f8c7/svg/bluee.svg)
-
 ---
 
 LA HISTORIA DEL NEW SHEPARD
+
+El desarrollo espacial de New Shepard fue lento y constante, ya que en 2006 inició pruebas con el cohete, y no fue hasta el 2012 que voló la primera prueba de su sistema de vuelo espacial suborbital. 
+
+Tres años más tarde, la empresa realizó la primera prueba completa del sistema New Shepard y fue todo un éxito. Es más, luego de esto, los vuelos no se han detenido, en total, el sistema New Shepard ha tenido 15 vuelos de prueba antes del memorable lanzamiento con tripulación del año pasado, en el que se invitó a 4 ciudadanos al espacio, acercándose cada vez más al propósito original de fomentar el turismo espacial.
+
+![bluee](https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/eb546a49b2e1415c3e857f837d03d8e54e92f8c7/svg/bluee.svg)
 
 ---
 
