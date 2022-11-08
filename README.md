@@ -7,4 +7,4 @@ En este se reducirán los costos, haciéndolo más accesible, con mayor capacida
 La meta de Jeff Bezos es que el New Glenn esté operativo antes del 2030.
 con esta nueva tecnología, ¿que pasará con el New Shepard? ¿Será reemplazado?
 
-!NewGlenn (https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/717fd22f4916afe2a047694bb5fca215b7ef05a4/svg/New%20Glenn.svg)
+![NewGlenn] (https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/717fd22f4916afe2a047694bb5fca215b7ef05a4/svg/New%20Glenn.svg)
