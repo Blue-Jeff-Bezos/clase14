@@ -20,7 +20,13 @@ Tres años más tarde, la empresa realizó la primera prueba completa del sistem
 ![bluee](https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/eb546a49b2e1415c3e857f837d03d8e54e92f8c7/svg/bluee.svg)
 
 ---
+Recorrido New Shepard
 
+New Shepard tiene distintas etapas durante su recorrido, el cual tarda aproximadamente 11 minutos. Durante este trayecto elcohete despega y libera la cápsula donde se encontrarán los pasajeros. La cápsula superara la línea de Karman, puesto que alcanzara una altura de 106 kilómetros. Luego descenderá, para aterrizar con la ayuda de paracaídas, mientras tanto el resto del cohete aterrizaría verticalmente a unos kilómetros de distancia de la cápsula.
+
+![recorridonewshepard](https://raw.githubusercontent.com/Blue-Jeff-Bezos/clase14/cb4e9c374fb33c9ab9aaf30a21897affb9b77249/svg/recorridonewshepard.svg)
+
+---
 EL FUTURO DEL NEW SHEPPARD
  
 El siguiente paso de Blue Origin es el seguir con el desarrollo y las pruebas del New Glenn, un vehículo de lanzamiento orbital reutilizable que permitirá transportar personas y cargas útiles con mayor facilidad.
