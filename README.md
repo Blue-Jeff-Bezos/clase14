@@ -1,4 +1,9 @@
 # clase14
+# New Shepard: La nave con la que Bezos se abre paso en el turismo espacial
+
+El turismo espacial, que se realiza a más de 100 kilómetros de altura de la tierra, ha empezado a hacerse realidad. Varias son las empresas aeroespaciales que pretenden enviar pasajeros al espacio exterior. 
+Entre ellas encontramos a Blue Origin, empresa privada de vuelos espaciales con sede en Kent, Washington, que comenzó en septiembre del 2000 por el fundador y presidente ejecutivo de Amazon, Jeff Bezos.  El objetivo de la organización es crear un futuro en el que las personas vivan y trabajen en el espacio en beneficio de la Tierra. 
+
 
 EL FUTURO DEL NEW SHEPPARD
  
