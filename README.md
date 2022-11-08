@@ -4,6 +4,15 @@
 El turismo espacial, que se realiza a más de 100 kilómetros de altura de la tierra, ha empezado a hacerse realidad. Varias son las empresas aeroespaciales que pretenden enviar pasajeros al espacio exterior. 
 Entre ellas encontramos a Blue Origin, empresa privada de vuelos espaciales con sede en Kent, Washington, que comenzó en septiembre del 2000 por el fundador y presidente ejecutivo de Amazon, Jeff Bezos.  El objetivo de la organización es crear un futuro en el que las personas vivan y trabajen en el espacio en beneficio de la Tierra. 
 
+¿QUÉ ES EL NEW SHEPARD?
+
+New Shepard (NS) es el cohete de Blue Origin, en donde Bezos ha completado su vuelo al espacio en julio de 2021. Este consiste en un cohete rematado por una cápsula que es capaz de regresar a la superficie sin ningún rasguño para poder utilizarse una y otra vez. 
+
+---
+
+LA HISTORIA DEL NEW SHEPARD
+
+---
 
 EL FUTURO DEL NEW SHEPPARD
  
