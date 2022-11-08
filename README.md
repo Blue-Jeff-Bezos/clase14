@@ -8,6 +8,8 @@ Entre ellas encontramos a Blue Origin, empresa privada de vuelos espaciales con 
 
 New Shepard (NS) es el cohete de Blue Origin, en donde Bezos ha completado su vuelo al espacio en julio de 2021. Lleva el nombre de Alan Shepard, el primer estadounidense en volar al espacio en 1961, como parte del programa pionero Mercury de la NASA. Este consiste en un cohete rematado por una cápsula que es capaz de regresar a la superficie sin ningún rasguño para poder utilizarse una y otra vez. 
 
+![New Glenn](
+
 ---
 
 LA HISTORIA DEL NEW SHEPARD
